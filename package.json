@@ -1,0 +1,23 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A simple weather app that uses google geolocation api to get weather information",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajatmangal/Node-Weather-App.git"
+  },
+  "author": "Rajat Mangal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajatmangal/Node-Weather-App/issues"
+  },
+  "homepage": "https://github.com/rajatmangal/Node-Weather-App#readme",
+  "dependencies": {
+    "request": "^2.73.0",
+    "yargs": "^11.0.0"
+  }
+}
